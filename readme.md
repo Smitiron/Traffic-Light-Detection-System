@@ -104,6 +104,7 @@ ultralytics>=8.2.0
 ---
 
 📌 **GitHub Repo:** [Smitiron/Traffic-Light-Detection-System](https://github.com/Smitiron/Traffic-Light-Detection-System)
+📌 **Deployment Link:** https://smitiron-traffic-light-detection-system-deploy-zahtc3.streamlit.app/
 
 
 
