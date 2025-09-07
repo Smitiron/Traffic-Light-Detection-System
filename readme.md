@@ -3,6 +3,7 @@
 This project detects **traffic lights (Red / Yellow / Green)** in videos using **YOLOv11** for object detection and **OpenCV (HSV analysis)** for color classification. Bounding boxes are drawn in the detected color of the light.
 
 ---
+https://github.com/user-attachments/assets/4374dd01-3d04-4302-b750-f56f5d43721a
 
 ## 📂 Project Structure
 
@@ -102,3 +103,4 @@ ultralytics>=8.2.0
 ---
 
 📌 **GitHub Repo:** [Smitiron/Traffic-Light-Detection-System](https://github.com/Smitiron/Traffic-Light-Detection-System)
+
